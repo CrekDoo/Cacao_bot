@@ -1,2 +1,2 @@
 print()
-print('new_botttt')
+print('Привет')
