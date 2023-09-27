@@ -1,3 +1,7 @@
 venv/
 .idea/
 bot_run_cacao.bat
+__pycache__/
+handlers/__pycache__/
+keyboards/__pycache__/
+cacao_hot.db
